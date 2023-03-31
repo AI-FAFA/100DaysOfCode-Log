@@ -2,11 +2,11 @@
 
 ## Contants
 * [Rules]() 
-* #### My_Log:[click here to see my progress]()
+* #### My_Log: [click here to see my progress]()
 * [My_Resources]()
 
 ## If you decided to join like me:
-1. Check out [the Oficial Site](https://www.100daysofx.com/challenges/) for the #100DaysOfCode movement. 
+1. Check out [the Oficial Site](https://www.100daysofcode.com/) for the #100DaysOfCode movement. 
 2. Code minimum an hour every day for the next 100 days.
 3. #### Encourage at least two other people in the challenge on Twitter every day! Pay it forward!
 4. Change the date in [Rules]() to the date you've started the challenge.
