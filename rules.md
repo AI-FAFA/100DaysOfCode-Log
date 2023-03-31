@@ -2,7 +2,7 @@
 ## Main Commitment
 ### I will code for at least an hour every day for the next 100 days.
 #### Start Date
-** March 31, 2023 **
+** April 1st, 2023 **
 # Additional Rules
 1. I will tweet about my progress every day -> using the hashtag #100DaysOfCode
 2. If I code at work, that time won't count towards the challenge.
