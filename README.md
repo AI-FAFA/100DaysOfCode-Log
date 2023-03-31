@@ -1,4 +1,4 @@
-# My #100DaysOfCode Challenge
+# My first **#100DaysOfCode** Challenge
 
 ## Contants
 * [My_Rules](https://github.com/AI-FAFA/100DaysOfCode-Log/blob/main/rules.md) 
