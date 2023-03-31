@@ -2,7 +2,7 @@
 
 ## Contants
 * [My_Rules]() 
-* #### My_Log: [click here to see my progress]()
+* **My_log**: [click here to see my progress]()
 * [My_Resources]()
 
 ## If you decided to join like me:
