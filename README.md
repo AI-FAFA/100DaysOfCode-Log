@@ -1,7 +1,7 @@
 # My #100DaysOfCode Challenge
 
 ## Contants
-* [My_Rules]() 
+* [My_Rules](https://github.com/AI-FAFA/100DaysOfCode-Log/blob/main/rules.md) 
 * **My_log**: [click here to see my progress]()
 * [My_Resources]()
 
